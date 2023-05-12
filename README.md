@@ -8,7 +8,8 @@
 <br />
 .🤹🏽 I like to shoot videos for youtube
 
-### Свяжитесь со мной:
+### Свяжитесь со мной :
+
 <img align="left" alt="webtricks-master.ru" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 <img align="left" alt="VladKalachev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 <img align="left" alt="VladKalachev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -18,6 +19,7 @@
 <br />
 
 ### Мой стек технологий :
+<br />
 
 <img src="https://img.shields.io/badge/javascript-black  ?style=for-the-badge&logo= <НАЗВАНИЕ ЛОГОТИПА> &logoColor= <ЦВЕТ ЛОГОТИПА"/> <img src="https://img.shields.io/badge/html5-green  ?style=for-the-badge&logo= <НАЗВАНИЕ ЛОГОТИПА> &logoColor= <ЦВЕТ ЛОГОТИПА"/> <img src="https://img.shields.io/badge/createreactapp-blue  ?style=for-the-badge&logo= <НАЗВАНИЕ ЛОГОТИПА> &logoColor= <ЦВЕТ ЛОГОТИПА"/> <img src="https://img.shields.io/badge/symphony-5F259F  ?style=for-the-badge&logo= <НАЗВАНИЕ ЛОГОТИПА> &logoColor= <ЦВЕТ ЛОГОТИПА"/> <img src="https://img.shields.io/badge/fandom-grey  ?style=for-the-badge&logo= <НАЗВАНИЕ ЛОГОТИПА> &logoColor= <ЦВЕТ ЛОГОТИПА"/> <img src="https://img.shields.io/badge/docsdotrs-red ?style=for-the-badge&logo= <НАЗВАНИЕ ЛОГОТИПА> &logoColor= <ЦВЕТ ЛОГОТИПА"/> <img src="https://img.shields.io/badge/atom-brown  ?style=for-the-badge&logo= <НАЗВАНИЕ ЛОГОТИПА> &logoColor= <ЦВЕТ ЛОГОТИПА"/> <img src="https://img.shields.io/badge/adobephotoshop-indigo  ?style=for-the-badge&logo= <НАЗВАНИЕ ЛОГОТИПА> &logoColor= <ЦВЕТ ЛОГОТИПА"/>
 
@@ -25,7 +27,7 @@
 
    
    
-  ### Языки и инструменты:
+  ### Языки и инструменты :
   
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
@@ -37,6 +39,7 @@
 <br />
 
 ### javascript :
+<br />
 <p align="center">
 <img src="https://raw.githubusercontent.com/jsdelivr/jsdelivr-media/master/default/svg/jsdelivr-logo-horizontal.svg" width="30%">
 </p>
