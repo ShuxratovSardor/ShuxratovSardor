@@ -1,8 +1,11 @@
 ### Привет я Сардобек :
 
 .💪 I like to write code
+<br />
 .🎉 I love to paint and play the guitar
+<br />
 .🥅 I am constantly learning new things
+<br />
 .🤹🏽 I like to shoot videos for youtube
 
 ### Свяжитесь со мной:
@@ -20,7 +23,7 @@
 
  <img src="https://img.shields.io/badge/postcss-indigo  ?style=for-the-badge&logo= <НАЗВАНИЕ ЛОГОТИПА> &logoColor= <ЦВЕТ ЛОГОТИПА"/> <img src="https://img.shields.io/badge/phpstorm-black  ?style=for-the-badge&logo= <НАЗВАНИЕ ЛОГОТИПА> &logoColor= <ЦВЕТ ЛОГОТИПА"/> <img src="https://img.shields.io/badge/microsoftword-blue  ?style=for-the-badge&logo= <НАЗВАНИЕ ЛОГОТИПА> &logoColor= <ЦВЕТ ЛОГОТИПА"/> <img src="https://img.shields.io/badge/githubsponsors-purple  ?style=for-the-badge&logo= <НАЗВАНИЕ ЛОГОТИПА> &logoColor= <ЦВЕТ ЛОГОТИПА"/> <img src="https://img.shields.io/badge/instagram-orange  ?style=for-the-badge&logo= <НАЗВАНИЕ ЛОГОТИПА> &logoColor= <ЦВЕТ ЛОГОТИПА"/> <img src="https://img.shields.io/badge/facebook-blue  ?style=for-the-badge&logo= <НАЗВАНИЕ ЛОГОТИПА> &logoColor= <ЦВЕТ ЛОГОТИПА"/>  <img src="https://img.shields.io/badge/htmlacademy-ollo  ?style=for-the-badge&logo= <НАЗВАНИЕ ЛОГОТИПА> &logoColor= <ЦВЕТ ЛОГОТИПА"/> 
 
-   Кто добро творит, того Бог отблагодарит.🕋🖤
+   
    
   ### Языки и инструменты:
   
