@@ -44,6 +44,6 @@
 </p>
 
 
-![javascript-glitter-logo-programming-language-grid-metal-background-javascript-creative](https://github.com/ShuxratovSardor/ShuxratovSardor/assets/131798091/55977091-2557-4443-bd4c-b0837332d3e1)
+![javascript-glitter-logo-programming-language-grid-metal-background-javascript-creative](https://github.com/ShuxratovSardor/ShuxratovSardor/assets/131798091/74afd020-b48c-4c09-9f48-642747afeed6)
 
 
